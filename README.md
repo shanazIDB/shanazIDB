@@ -32,12 +32,12 @@
  ### 📚 IDB-BISEW IT Scholarship Project
 - 🎓 **Diploma in Enterprise Systems Analysis & Design – C#.Net**
  ### 📚 Skills for Employment Investment Program (SEIP)
-- 🌐 **Web Application Development – Dot Net**
+- 🎓 **Web Application Development – Dot Net**
  ### 📚 Sheikh Kamal IT Incubation Training Project (SKITP)
 - 🎨 **Graphics Design**
  ### 📚 Programming Hero(Bootcamp)
-- 🎨 **Web Development Kickstart**
-- 🎨 **AI Career Summit 2026**
+- 🎓 **Web Development Kickstart**
+- 🎓 **AI Career Summit 2026**
 
 ### 🏆 Microsoft Certifications
 - 🥇 **MCSD Certification 70-480** (Programming in HTML5 with JavaScript and CSS3)
