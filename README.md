@@ -1,20 +1,23 @@
 <h1 align="center">Hi 👋, I'm Shanaz Akter</h1>
-<h3 align="center">Backend developer from Chattogram, Bangladesh 💼 Working at Neosysworld</h3>
+<h3 align="center">Backend developer from Chattogram, Bangladesh <br /> 💼 Working at Neosysworld</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shanazidb&label=Profile%20views&color=0e75b6&style=flat" alt="shanazidb" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shanazidb" alt="shanazidb" /></a> </p>
 
-### Blogs posts
+<!--### Blogs posts-->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shanazidb32/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shanazidb32/" height="30" width="40" /></a>
-<a href="https://medium.com/@shanazreya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shanazreya" height="30" width="40" /></a>
-</p>
-
+<!--<h3 align="left">Connect with me:</h3>-->
+ <p align="center">
+        <a href="https://www.linkedin.com/in/shanazidb32/" target="_blank">
+            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+        </a>
+        <a href="" target="_blank">
+            <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+        </a>
+    </p>
 ### 🛠️ Tech Stack
 
 | Frontend | Backend | Database | DevOps | Tools | UI Design |
