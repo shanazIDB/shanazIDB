@@ -26,14 +26,14 @@
 | <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30"/> </a> | | | | | <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="30"/> </a> |
 | <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="30"/> </a> | | | | | <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="30"/> </a> |
 
- ##🎓 Professional Training & Certifications
+ ## 🎓 Professional Training & Certifications
 
- ###📚 Courses
+ ### 📚 Courses
 - 🎓 **Diploma in Enterprise Systems Analysis & Design – C#.Net** *IDB-BISEW IT Scholarship Project*
 - 🌐 **Web Application Development – Dot Net** *Skills for Employment Investment Program (SEIP)*
 - 🎨 **Graphics Design** *Sheikh Kamal IT Incubation Training Project (SKITP)*
 
- 🏆 Microsoft Certifications
+### 🏆 Microsoft Certifications
 - 🥇 **MCSD Certification 70-480** (Programming in HTML5 with JavaScript and CSS3)
 - 🥇 **MCSD Certification 70-486** (Developing ASP.NET MVC Web Applications)
 
