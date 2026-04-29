@@ -37,6 +37,7 @@
 - 🎨 **Graphics Design**
  ### 📚 Programming Hero(Bootcamp)
 - 🎨 **Web Development Kickstart**
+- 🎨 **AI Career Summit 2026**
 
 ### 🏆 Microsoft Certifications
 - 🥇 **MCSD Certification 70-480** (Programming in HTML5 with JavaScript and CSS3)
