@@ -2,9 +2,6 @@
 <h3 align="center">Backend developer from Chattogram, Bangladesh <br /> 💼 Working at Neosysworld</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shanazidb&label=Profile%20views&color=0e75b6&style=flat" alt="shanazidb" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shanazidb" alt="shanazidb" /></a> </p>
-
 <!--### Blogs posts-->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
@@ -18,7 +15,7 @@
             <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
         </a>
     </p>
-### 🛠️ Tech Stack
+🛠️ Tech Stack
 
 | Frontend | Backend | Database | DevOps | Tools | UI Design |
 | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -28,9 +25,20 @@
 | <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30"/> </a> | | | | | <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="30"/> </a> |
 | <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="30"/> </a> | | | | | <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="30"/> </a> |
 
+ 🎓 Professional Training & Certifications
+
+ 📚 Courses
+- 🎓 **Diploma in Enterprise Systems Analysis & Design – C#.Net** *IDB-BISEW IT Scholarship Project*
+- 🌐 **Web Application Development – Dot Net** *Skills for Employment Investment Program (SEIP)*
+- 🎨 **Graphics Design** *Sheikh Kamal IT Incubation Training Project (SKITP)*
+
+ 🏆 Microsoft Certifications
+- 🥇 **MCSD Certification 70-480** (Programming in HTML5 with JavaScript and CSS3)
+- 🥇 **MCSD Certification 70-486** (Developing ASP.NET MVC Web Applications)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shanazidb&show_icons=true&locale=en&layout=compact" alt="shanazidb" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shanazidb&show_icons=true&locale=en" alt="shanazidb" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shanazidb&" alt="shanazidb" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shanazidb" alt="shanazidb" /></a> </p>
