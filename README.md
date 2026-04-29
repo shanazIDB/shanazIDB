@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Shanaz!</h1>
+<h1 align="center">👋 Hello, I'm Shanaz!</h1>
 <h3 align="center">Backend developer from Chattogram, Bangladesh <br /> 💼 Working at Neosysworld</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shanazidb&label=Profile%20views&color=0e75b6&style=flat" alt="shanazidb" /> </p>
